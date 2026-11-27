@@ -1,4 +1,4 @@
-# StudySphere - Academic Resource Platform
+# StudySphere - Academic Resource Platform - Version A
 
 A full-stack MERN application designed to streamline academic resource sharing, featuring multi-modal study tools including interactive flashcards and community Q&A.
 
